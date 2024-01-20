@@ -1,0 +1,16 @@
+FlightNumber DepartureLocation ArrivalLocation DepartureTime AvailableSeats Date Price
+FL001 Beirut Istanbul 08:00 10 1/3/2024 100$
+FL002 Beirut Paris 09:00 5 1/3/2024 800$
+FL003 Beirut Istanbul 10:00 4 1/10/2024 100$
+FL004 Beirut Rome 11:00 1 1/3/2024 500$
+FL005 Beirut Istanbul 12:00 2 1/3/2024 100$
+FL006 Beirut Paris 12:00 4 1/10/2024 800$
+FL007 Beirut Rome 15:00 6 1/10/2024 500$
+FL008 Beirut Istanbul 07:00 3 1/10/2024 100$
+FL009 Beirut Paris 14:00 4 1/3/2024 800$
+FL010 Beirut Rome 19:00 4 1/3/2024 500$
+FL011 Beirut Paris 07:00 2 1/10/2024 800$
+FL012 Beirut Istanbul 17:00 7 1/3/2024 100$
+FL013 Beirut Rome 07:00 8 1/10/2024 500$
+FL014 Beirut Paris 18:00 1 1/10/2024 800$
+FL015 Beirut Rome 12:00 2 1/10/2024 500$
